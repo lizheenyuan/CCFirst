@@ -1,0 +1,69 @@
+2019-03-13T03:20:35.402Z - normal: Load ~/.CocosCreator/settings.json
+2019-03-13T03:20:36.601Z - normal: Initializing Asset Database
+2019-03-13T03:20:36.626Z - normal: checking language setting...
+2019-03-13T03:20:36.626Z - normal: Language: zh
+2019-03-13T03:20:37.999Z - success: preview server running at http://localhost:7456
+2019-03-13T03:20:38.003Z - success: protocol editor-framework registered
+2019-03-13T03:20:38.003Z - success: protocol app registered
+2019-03-13T03:20:38.003Z - success: protocol theme registered
+2019-03-13T03:20:38.003Z - success: protocol packages registered
+2019-03-13T03:20:38.003Z - success: protocol uuid registerred
+2019-03-13T03:20:38.003Z - success: protocol db registerred
+2019-03-13T03:20:38.003Z - success: protocol thumbnail registerred
+2019-03-13T03:20:38.004Z - success: protocol unpack registerred
+2019-03-13T03:20:38.004Z - success: protocol disable-commonjs registerred
+2019-03-13T03:20:38.298Z - normal: connected!
+2019-03-13T03:20:38.299Z - normal: Check project D:\WorkSpace\cocos\start_project\start_project
+2019-03-13T03:20:38.300Z - normal: Initializing project D:\WorkSpace\cocos\start_project\start_project
+2019-03-13T03:20:39.207Z - normal: Initializing Cocos2d
+2019-03-13T03:20:40.067Z - normal: Initializing engine extends
+2019-03-13T03:20:40.070Z - normal: Loading editor/builtin packages from D:\CocosCreator\resources\app.asar\editor\builtin
+2019-03-13T03:20:40.230Z - success: assets loaded
+2019-03-13T03:20:40.244Z - success: builder loaded
+2019-03-13T03:20:40.813Z - success: cocos-services loaded
+2019-03-13T03:20:40.819Z - success: console loaded
+2019-03-13T03:20:40.861Z - success: fb-instant-games loaded
+2019-03-13T03:20:40.863Z - success: google-instant-games loaded
+2019-03-13T03:20:40.876Z - success: hierarchy loaded
+2019-03-13T03:20:40.879Z - success: inspector loaded
+2019-03-13T03:20:40.881Z - success: keystore loaded
+2019-03-13T03:20:40.886Z - success: node-library loaded
+2019-03-13T03:20:40.888Z - success: package-asset loaded
+2019-03-13T03:20:40.890Z - success: preferences loaded
+2019-03-13T03:20:40.892Z - success: project-exporter loaded
+2019-03-13T03:20:40.895Z - success: project-importer loaded
+2019-03-13T03:20:40.897Z - success: project-settings loaded
+2019-03-13T03:20:40.900Z - success: ui-kit loaded
+2019-03-13T03:20:40.905Z - success: scene loaded
+2019-03-13T03:20:40.907Z - success: simulator-debugger loaded
+2019-03-13T03:20:40.909Z - success: sprite-editor loaded
+2019-03-13T03:20:40.920Z - success: store loaded
+2019-03-13T03:20:40.924Z - success: timeline loaded
+2019-03-13T03:20:40.925Z - normal: Loading builtin packages from D:\CocosCreator\resources\builtin
+2019-03-13T03:20:40.930Z - success: asset-db-debugger loaded
+2019-03-13T03:20:40.941Z - success: code-editor loaded
+2019-03-13T03:20:40.942Z - success: color-picker loaded
+2019-03-13T03:20:41.095Z - success: fb-audience-network loaded
+2019-03-13T03:20:41.100Z - success: fb-live-stream loaded
+2019-03-13T03:20:41.114Z - success: google-play-instant loaded
+2019-03-13T03:20:41.120Z - success: huawei-runtime loaded
+2019-03-13T03:20:41.121Z - success: jsb-adapter loaded
+2019-03-13T03:20:41.125Z - success: oppo-runtime loaded
+2019-03-13T03:20:41.130Z - success: package-manager loaded
+2019-03-13T03:20:41.499Z - success: qqplay-adapter loaded
+2019-03-13T03:20:41.502Z - success: runtime-dev-tools loaded
+2019-03-13T03:20:41.515Z - success: sdkbox loaded
+2019-03-13T03:20:41.521Z - success: tester loaded
+2019-03-13T03:20:41.524Z - success: ui-grid loaded
+2019-03-13T03:20:41.527Z - success: ui-kit-preview-extra loaded
+2019-03-13T03:20:41.529Z - success: ui-kit-preview loaded
+2019-03-13T03:20:41.531Z - success: ui-tree loaded
+2019-03-13T03:20:41.536Z - success: vivo-runtime loaded
+2019-03-13T03:20:41.537Z - success: weapp-adapter loaded
+2019-03-13T03:20:44.186Z - info: Cocos Services load base data!
+2019-03-13T03:20:44.324Z - normal: Loading packages
+2019-03-13T03:20:44.334Z - normal: Watching packages
+2019-03-13T03:20:44.877Z - normal: Run Application
+2019-03-13T03:50:40.640Z - success: API data generated and copied to D:\WorkSpace\cocos\start_project\start_project\creator.d.ts
+2019-03-13T03:50:42.640Z - success: VS Code extension installed to C:\Users\yuan\.vscode\extensions
+2019-03-13T03:50:45.930Z - success: TypeScript Configuration file has been copied to D:\WorkSpace\cocos\start_project\start_project\tsconfig.json
